@@ -25,10 +25,10 @@ businesses to identify at-risk customers early and take retention actions.
 
 ## Screenshots
 ### Model Training & Evaluation
-![Model Training](screenshots/training.jpg)
+![Model Training](Screenshots/training.jpg)
 
 ### Churn Prediction Output
-![Churn Prediction](screenshots/prediction.jpg)
+![Churn Prediction](Screenshots/prediction.jpg)
 
 
 ## How to Run
@@ -36,5 +36,6 @@ businesses to identify at-risk customers early and take retention actions.
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
+
 
 
