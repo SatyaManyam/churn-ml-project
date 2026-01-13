@@ -22,11 +22,6 @@ businesses to identify at-risk customers early and take retention actions.
 5. Save the trained model and metrics as artifacts
 6. Run predictions using JSON input via a command-line interface
 
-## How to Run
-
-### Install dependencies
-```bash
-pip install -r requirements.txt
 
 ## Screenshots
 ### Model Training & Evaluation
@@ -34,3 +29,12 @@ pip install -r requirements.txt
 
 ### Churn Prediction Output
 ![Churn Prediction](screenshots/prediction.jpg)
+
+
+## How to Run
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
+
+
