@@ -27,3 +27,10 @@ businesses to identify at-risk customers early and take retention actions.
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
+
+## Screenshots
+### Model Training & Evaluation
+![Model Training](screenshots/training.jpg)
+
+### Churn Prediction Output
+![Churn Prediction](screenshots/prediction.jpg)
